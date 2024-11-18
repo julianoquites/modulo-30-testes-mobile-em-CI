@@ -1,1 +1,1 @@
-# modulo-30-testes-mobile-em-CI
+# EBAC Módulo 29 - Testando Aplicações iOS
