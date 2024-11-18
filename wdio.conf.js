@@ -28,7 +28,7 @@ export const config = {
       },
     },
   ],
-  logLevel: "info",
+  logLevel: "debug",
   waitforTimeout: 10000,
   connectionRetryTimeout: 120000,
 
