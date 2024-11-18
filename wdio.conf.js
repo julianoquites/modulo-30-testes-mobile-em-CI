@@ -7,6 +7,7 @@ export const config = {
   user: process.env.SAUCE_USERNAME,
   key: process.env.SAUCE_ACCESS_KEY,
   hostname: "ondemand.us-west-1.saucelabs.com",
+  protocol: "https",
   port: 443,
   baseUrl: "wd/hub",
 
@@ -28,7 +29,7 @@ export const config = {
       },
     },
   ],
-  logLevel: "debug",
+  logLevel: "trace",
   waitforTimeout: 10000,
   connectionRetryTimeout: 120000,
 
