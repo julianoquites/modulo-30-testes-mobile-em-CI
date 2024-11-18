@@ -21,7 +21,7 @@ export const config = {
       "appium:automationName": "XCUITest",
       "appium:disableIdLocatorAutocompletion": true,
       "sauce:options": {
-        build: "appium-build-EBAC-MODULO-29",
+        build: "appium-build-EBAC-MODULO-30",
         name: "Teste iOS",
         deviceOrientation: "PORTRAIT",
         appiumVersion: "latest",
